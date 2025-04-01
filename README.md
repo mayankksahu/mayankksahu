@@ -1,4 +1,4 @@
-# 💻 Hey there! I'm [Your Name] 👋
+# 💻 Hey there! I'm [Mayank Kumar Sahu] 👋
 
 ## 🚀 About Me  
 I'm a passionate **full-stack blockchain developer in the making** with a strong foundation in **Java, Solidity, and Web3 development**. Currently pursuing my **B.Tech (3rd year)**, I'm continuously exploring **blockchain, cybersecurity, and full-stack development**.  
@@ -31,8 +31,8 @@ I'm a passionate **full-stack blockchain developer in the making** with a strong
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](Your_LinkedIn_Link)  
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-red?style=flat&logo=gmail)](mailto:Your_Email)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/mayank-sahu-535664203)  
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-red?style=flat&logo=gmail)](mailto:sijalsahu@gmail.com)  
 
 ---
 
