@@ -7,7 +7,7 @@ I'm a passionate **full-stack developer in the making** with a strong foundation
 
 ## 🛠 Tech Stack  
 - **Languages:** C, C++, Java, JavaScript, Solidity  
-- **Web Development:** HTML, CSS, Node.js, Express.js, MongoDB, Web3.js  
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, MongoDB, Web3.js  
 - **Blockchain & Web3:** Solidity, Smart Contracts, Crypto Wallets  
 - **Other Interests:** AI-powered solutions  
 
