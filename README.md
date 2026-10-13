@@ -215,6 +215,6 @@ I'm open to **Java Backend / Full-Stack Developer** roles.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+the+future+with+clean+code;Let's+build+something+great+together" alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
