@@ -1,5 +1,3 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere with your real GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayank%20Kumar%20Sahu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
@@ -13,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sahu-535664203)
 [![Gmail](https://img.shields.io/badge/Email-sijalsahu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sijalsahu@gmail.com)
 [![Location](https://img.shields.io/badge/Bhopal-Madhya%20Pradesh-success?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mayankksahu&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -188,12 +186,12 @@ Razorpay payment integration, wallet management, REST APIs, and responsive UI co
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mayankksahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankksahu&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=mayankksahu&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankksahu&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
